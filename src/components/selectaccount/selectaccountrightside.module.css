@@ -1,0 +1,37 @@
+.Container{
+  margin-top: 108px;
+}
+
+.Signin {
+  text-align: right;
+  margin: 60px;
+}
+.join {
+  height: 36px;
+  width: 118px;
+  left: 793px;
+  top: 233px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-left: 50px;
+}
+.small {
+  height: 56px;
+  width: 411px;
+  left: 793px;
+  top: 279px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #8692a6;
+  margin-left: 50px;
+}

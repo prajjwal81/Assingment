@@ -1,0 +1,54 @@
+.Container{
+    background: #1565D8
+    90%;
+    color: white;
+    width: 760px;
+    height: 820px;
+    left: 0px;
+    top: 0px;
+    
+}
+.Content{
+    height: 190px;
+width: 473px;
+left: 82px;
+top: 370px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 50px;
+
+
+}
+.img{
+    height: 320px;
+    text-align: left;
+}
+.unionimg{
+    margin-top: 100px;
+    margin-left: 100px;
+    text-align: left;
+}
+
+.commaimg{
+    margin-left: 45px;
+    margin-top: 149px;
+    
+}
+.vectorimg{
+    margin-left: 382px;
+}
+
+.vince{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 50px;
+}

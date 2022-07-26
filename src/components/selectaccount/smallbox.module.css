@@ -1,0 +1,41 @@
+.individualBox {
+    height: 108px;
+    width: 426px;
+    left: 793px;
+    top: 370px;
+    border-radius: 6px;
+    margin-left: 50px;
+    margin-top: 30px;
+    border: 1px solid #1565d8;
+  }
+  .individual {
+    margin-top: 15px;
+    text-align: left;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 10px;
+  }
+  .individuals {
+    height: 34px;
+    width: 220px;
+  
+    left: 901px;
+    top: 419px;
+    border-radius: nullpx;
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .individualImg{
+  margin-top: 9px;
+  }  
+  .arrow{
+    margin-left: 20px;
+  }
