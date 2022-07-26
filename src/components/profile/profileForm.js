@@ -2,6 +2,7 @@ import { Col, Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import Styles from "./Profileform.module.css";
+import { NavLink } from "react-router-dom";
 
 const ProfileForm = () => {
   return (
@@ -47,8 +48,9 @@ const ProfileForm = () => {
           
           <div className="d-grid gap-2">
             <Button variant="primary" size="lg">
-              Save & Continue
+            <NavLink to="/completeprofile" style={{color:"white",textDecoration:"none"}}> Save & Continue</NavLink>
             </Button>
+             
           </div>
           
         </Form>

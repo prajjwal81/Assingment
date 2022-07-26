@@ -21,6 +21,7 @@ function App() {
           <Route path="/register" element={<Register />} />
           <Route path="/profile" element={<Profile />} />
           <Route path="/complete" element={<Register />} />   
+          <Route path="/completeprofile" element={<CompleteProfile />} />  
         </Routes>
       </Router>
      
